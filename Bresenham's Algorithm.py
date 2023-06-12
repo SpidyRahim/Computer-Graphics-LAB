@@ -5,6 +5,7 @@ def bresenham_algorithm(x1, y1, x2, y2):
     dx = abs(x2 - x1)
     dy = abs(y2 - y1)
     steep = dy > dx
+    
     if steep:
         x1, y1 = y1, x1
         x2, y2 = y2, x2
