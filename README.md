@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Computer Graphics LAB" width="200">
+  <img src="logo.png" alt="Computer Graphics LAB" width="800">
 </div>
 
 # Computer Graphics LAB
